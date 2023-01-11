@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="134px" viewBox="0 0 134 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_digital_payment</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.261973505 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="48" cy="48" r="48"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Retailers_desk" transform="translate(-1123.000000, -806.000000)">
+            <g id="ic_digital_payment" filter="url(#filter-1)" transform="translate(1130.000000, 813.000000)">
+                <g id="digital_payment">
+                    <circle id="Oval-17" fill="#FFFFFF" cx="48" cy="48" r="48"></circle>
+                    <g id="Path-30" stroke-width="1">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <polygon fill="#D8D8D8" opacity="0.5" mask="url(#mask-3)" points="63.1962891 13.4179688 97.1110475 47.3327272 97.5104616 111.770957 59.7632865 111.770957 28.9397426 80.9474132 53.5361328 45.5830078 58.4248047 45.078125"></polygon>
+                    </g>
+                    <g id="Group-3" stroke-width="1" transform="translate(26.000000, 12.000000)">
+                        <ellipse id="Oval-3-Copy" stroke="#B6B6B6" stroke-width="1.5" fill="#FFFFFF" cx="29.1607143" cy="17.0421687" rx="16.1205357" ry="16.314759"></ellipse>
+                        <ellipse id="Oval-3" stroke="#B6B6B6" stroke-width="1.5" fill="#FFFFFF" cx="29.1607143" cy="17.0421687" rx="11.9107143" ry="12.0542169"></ellipse>
+                        <ellipse id="Oval-3" stroke="#B6B6B6" stroke-width="1.5" fill="#FFFFFF" cx="29.1607143" cy="17.0421687" rx="7.39285714" ry="7.48192771"></ellipse>
+                        <rect id="Rectangle-36" fill="#F7A404" x="0" y="16.626506" width="30.3928571" height="52.373494" rx="5"></rect>
+                        <rect id="Rectangle-36" fill="#FFFFFF" x="1.64285714" y="19.9518072" width="26.9655172" height="39.9036145" rx="1"></rect>
+                        <rect id="Rectangle-36" fill="#338B37" x="2.46428571" y="21.6144578" width="24.7183908" height="36.5783133" rx="2"></rect>
+                        <rect id="Rectangle-36" fill="#FFFFFF" x="11.5" y="44.8915663" width="7.0907225" height="9.97590361" rx="2"></rect>
+                        <g id="Group-2" transform="translate(22.178571, 25.771084)" fill="#FFFFFF">
+                            <rect id="Rectangle-36-Copy" x="1.70974346e-14" y="22.5496988" width="2.84612165" height="6.45701733"></rect>
+                            <rect id="Rectangle-36-Copy-3" x="1.70974346e-14" y="7.51656627" width="2.84612165" height="6.45701733"></rect>
+                            <rect id="Rectangle-36-Copy-2" x="1.70974346e-14" y="15.0331325" width="2.84612165" height="6.45701733"></rect>
+                            <rect id="Rectangle-36-Copy-4" x="1.70974346e-14" y="0" width="2.84612165" height="6.45701733"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

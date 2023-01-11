@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="134px" viewBox="0 0 134 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>EE264D96-F4BF-4EA6-9E84-89C5C0D48708</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.261973505 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="48" cy="48" r="48"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Farmers_desk" transform="translate(-1071.000000, -806.000000)">
+            <g id="Group-3" transform="translate(0.000000, 662.000000)">
+                <g id="Group-30" transform="translate(1017.000000, 151.000000)">
+                    <g id="ic_delivery" filter="url(#filter-1)" transform="translate(61.000000, 0.000000)">
+                        <g id="quality-copy-3">
+                            <circle id="Oval-16-Copy" fill="#FFFFFF" cx="48" cy="48" r="48"></circle>
+                            <g id="Path-30" stroke-width="1">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="Mask" fill="#FFFFFF" xlink:href="#path-2"></use>
+                                <path d="M31.6967093,18 L68.6884876,17.8370529 L97.5104616,45.9147585 L97.5104616,108.352988 L57.3137719,108.352988 L26.9397426,77.5294445 C26.9397426,77.5294445 25.7105398,31.3242187 26.9397426,25.4589844 C28.1689453,19.59375 31.6967093,18 31.6967093,18 Z" fill="#D8D8D8" opacity="0.5" mask="url(#mask-3)"></path>
+                            </g>
+                            <g id="Group-3" stroke-width="1" transform="translate(25.000000, 17.000000)">
+                                <path d="M9.07667101,13.7028689 C9.07667101,13.7028689 2.94514974,13.9789959 2.94514974,8.55122951 C2.94514974,3.12346311 8.166352,3.32018443 8.166352,3.32018443 L43.2521904,3.32018443 C43.2521904,3.32018443 44.1894857,2.953125 44.1894857,1.73616803 C44.1894857,0.519211066 42.8306369,0.497438525 42.8306369,0.497438525 L8.45013462,0.497438525 C8.45013462,0.497438525 0.667312283,0.433657787 0.667312283,8.38934426 L0.667312283,55.8013364 C0.667312283,55.8013364 -1.0046658,63.1401127 10.0390082,63.1401127 C21.0826823,63.1401127 9.07667101,13.7028689 9.07667101,13.7028689 Z" id="Path-32" fill="#255572"></path>
+                                <rect id="Rectangle-40" fill="#265572" x="5.22222222" y="13.6393443" width="41.7777778" height="49.3114754" rx="2"></rect>
+                                <rect id="Rectangle" fill="#265572" x="2.08888889" y="7.3442623" width="41.7777778" height="2.62295082" rx="1.31147541"></rect>
+                                <g id="Group-2-Copy" transform="translate(7.355556, 22.032787)">
+                                    <path d="M16.9640432,3.14799636 L16.9640432,32.0044502" id="Path-34" stroke="#FFFFFF" stroke-width="1.75" stroke-linecap="round"></path>
+                                    <path d="M26.1339531,13.314989 C28.4872008,12.2821492 30.1317581,9.92335027 30.1317581,7.17870269 C30.1317581,4.43405512 28.4872008,2.07525617 26.1339531,1.04241642 C23.7807055,2.07525617 22.1361482,4.43405512 22.1361482,7.17870269 C22.1361482,9.92335027 23.7807055,12.2821492 26.1339531,13.314989 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(26.133953, 7.178703) rotate(-315.000000) translate(-26.133953, -7.178703) "></path>
+                                    <path d="M8.14629883,13.314989 C10.4995465,12.2821492 12.1441038,9.92335027 12.1441038,7.17870269 C12.1441038,4.43405512 10.4995465,2.07525617 8.14629883,1.04241642 C5.79305119,2.07525617 4.14849387,4.43405512 4.14849387,7.17870269 C4.14849387,9.92335027 5.79305119,12.2821492 8.14629883,13.314989 Z" id="Combined-Shape-Copy-13" fill="#FFFFFF" transform="translate(8.146299, 7.178703) scale(-1, 1) rotate(-315.000000) translate(-8.146299, -7.178703) "></path>
+                                    <path d="M26.1339531,25.9634407 C28.4872008,24.9306009 30.1317581,22.571802 30.1317581,19.8271544 C30.1317581,17.0825069 28.4872008,14.7237079 26.1339531,13.6908681 C23.7807055,14.7237079 22.1361482,17.0825069 22.1361482,19.8271544 C22.1361482,22.571802 23.7807055,24.9306009 26.1339531,25.9634407 Z" id="Combined-Shape-Copy-12" fill="#FFFFFF" transform="translate(26.133953, 19.827154) rotate(-315.000000) translate(-26.133953, -19.827154) "></path>
+                                    <path d="M8.14629883,25.9634407 C10.4995465,24.9306009 12.1441038,22.571802 12.1441038,19.8271544 C12.1441038,17.0825069 10.4995465,14.7237079 8.14629883,13.6908681 C5.79305119,14.7237079 4.14849387,17.0825069 4.14849387,19.8271544 C4.14849387,22.571802 5.79305119,24.9306009 8.14629883,25.9634407 Z" id="Combined-Shape-Copy-14" fill="#FFFFFF" transform="translate(8.146299, 19.827154) scale(-1, 1) rotate(-315.000000) translate(-8.146299, -19.827154) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
